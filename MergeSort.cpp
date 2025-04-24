@@ -98,4 +98,7 @@ void mergesort(int low,int hi)
          cout << endl;
      }
     
-     
+     int main(){
+        input();
+
+     }
