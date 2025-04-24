@@ -16,3 +16,10 @@ void input(){
             cout << "\nArray maksimal 20 element.\n";
         }
     }
+    cout << endl;
+    cout << "======================" <<endl;
+    cout << "Masukkan element array" <<endl;
+    cout << "======================" <<endl;
+
+    
+}        
