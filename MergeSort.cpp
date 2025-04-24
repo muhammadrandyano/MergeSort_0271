@@ -35,3 +35,6 @@ void mergesort(int low,int hi)
     }
 
     int mid = (low+high)/ 2;
+
+    mergesort(low,high);
+    mergesort(mid+low,high);
